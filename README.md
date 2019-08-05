@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Seja bem-vindo!
 
 You can use the [editor on GitHub](https://github.com/tiagosly/sample_pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
